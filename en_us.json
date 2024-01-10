@@ -127,8 +127,8 @@
 	"item.mna.crystal_phylactery.tooltip": "Эссенция %s (%d/%d)",
 	"item.mna.crystal_phylactery.empty": "Пустой",
 	
-	"item.mna.enchanted_vellum": "Spell Recipe",
-	"item.mna.enchanted_vellum.subtitle": "I'll need to gather up the following reagents for the Ritual of Arcana:",
+	"item.mna.enchanted_vellum": "Рецепт заклинания",
+	"item.mna.enchanted_vellum.subtitle": "Мне нужно собрать следующие реагенты для Ритуала Арканы:",
 	"item.mna.eldritch_orb": "Eldritch Orb",
 	"item.mna.emberglow_bracelet": "Emberglow Bracelet",
 	"item.mna.ender_disc": "Ender Disc",
